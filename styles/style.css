@@ -1,0 +1,41 @@
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+
+  img {
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 50%;
+  }
+  .navbar {
+    padding: 10px !important;
+  }
+  .navbar-nav {
+    margin: auto !important;
+  }
+.nav-item {
+    padding: 30px;
+    font-size: 1.5rem;
+}
+.totalCost {
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
+.heading {
+    text-align: center;
+    padding: 30px;
+    h1 {
+        font-size: 3rem;
+        padding: 10px;
+    }
+    p {
+        font-size: 1.5rem;
+        padding: 10px;
+    }
+}
+
+.booking-area {
+    padding: 60px;
+    background-color: rgb(159, 159, 158);
+}

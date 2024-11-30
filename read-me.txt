@@ -1,0 +1,3 @@
+1. Currently I am building a website to a hostal in Barichara, Colombia. I want to build an algorithm to build an online booking/reservation system.
+2. I will use if condition and loop.
+3. To make it simple for now, I will make 4 boxes in HTML: A) Guests B) Nights C)Room D)Total Cost.
